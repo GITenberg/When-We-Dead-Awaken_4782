@@ -1,5 +1,5 @@
 _repo: When-We-Dead-Awaken_4782
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Archer, William
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '3729'
     url: http://www.gutenberg.org/2009/agents/3729
     wikipedia: http://en.wikipedia.org/wiki/William_Archer_(critic)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ibsen, Henrik
@@ -19,6 +22,8 @@ creator:
 description: When We Dead Awaken is the last play written by Norwegian dramatist Henrik
   Ibsen. It was first published in 1899, and first staged in Stuttgart in 1900.--
   Excerpted from Wikipedia, the free encyclopedia.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4782#When-We-Dead-Awaken
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
